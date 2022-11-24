@@ -60,7 +60,13 @@ Below is the list of all the columns present in the dataset:Total 81 columns
 - With Lasso regularisation as well, the train and test r2 score are very close and train adjusted r2 score is also really good.
 - But the ridge regularisation does slightly better to reduce overfitting
 ![img.png](img.png)
+- Top 10 predictors from RIDGE, along with their coefficients are:
 
+![img_1.png](img_1.png)
+
+- Top 10 Predictors from LASSO, along with their coefficients are:
+
+![img_2.png](img_2.png)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
